@@ -1,0 +1,42 @@
+Adnan Syed
+Ahmed Khan
+Alan Soft
+Chad Zhing
+David Palmer
+Peter Mckenzie
+Zheng Ma
+Adnan Syed
+Ahmed Khan
+Alan Soft
+Chad Zhing
+David Palmer
+Peter Mckenzie
+Zheng Ma
++614566783455 INVALID
++61555483933 INVALID
++61456784333 VALID
++6145678322 INVALID
++61546788988 INVALID
++615456 INVALID
++61455789784 VALID
+Adnan Syed
+Ahmed Khan
+Alan Soft
+Chad Zhing
+David Palmer
+Peter Mckenzie
+Zheng Ma
++614566783455 INVALID
++61555483933 INVALID
++61456784333 VALID
++6145678322 INVALID
++61546788988 INVALID
++615456 INVALID
++61455789784 VALID
+adnan@syed.com.au
+ahmed@example.com
+alan@netsoft.com.au
+chadz@azure.edu.au
+david@cisco.com.au
+peter@micro.com
+zheng@zeng.com

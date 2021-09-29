@@ -1,0 +1,28 @@
+Name: Adnan Syed
+Phone number: +614566783455 INVALID
+Email: adnan@syed.com.au
+=====================================
+Name: Ahmed Khan
+Phone number: +61555483933 INVALID
+Email: ahmed@example.com
+=====================================
+Name: Alan Soft
+Phone number: +61456784333 VALID
+Email: alan@netsoft.com.au
+=====================================
+Name: Chad Zhing
+Phone number: +6145678322 INVALID
+Email: chadz@azure.edu.au
+=====================================
+Name: David Palmer
+Phone number: +61546788988 INVALID
+Email: david@cisco.com.au
+=====================================
+Name: Peter Mckenzie
+Phone number: +615456 INVALID
+Email: peter@micro.com
+=====================================
+Name: Zheng Ma
+Phone number: +61455789784 VALID
+Email: zheng@zeng.com
+=====================================
